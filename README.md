@@ -1,0 +1,1 @@
+# RMarkdown-Template-that-Manages-Academic-Affiliations-docx-or-PDF-output
